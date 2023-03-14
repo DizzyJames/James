@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: James, Configuration: Debug Any CPU ------
+1>  James -> C:\Users\jpicardal\source\repos\James\James\bin\Debug\James.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:44 PM and took 00.914 seconds ==========
